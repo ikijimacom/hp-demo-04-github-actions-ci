@@ -1,0 +1,9 @@
+{
+  "name": "kohaku-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "架空のキャラクター「コハク」の好きなもの紹介ページ",
+  "scripts": {
+    "test": "node --test"
+  }
+}
